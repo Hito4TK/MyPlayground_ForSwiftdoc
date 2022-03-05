@@ -25,9 +25,11 @@ Task {
     
     
     //let handle = FileHandle.standardInt
+    /*
     for try await line in photoNames {
         print(line)
     }
+    */
     
 }
 

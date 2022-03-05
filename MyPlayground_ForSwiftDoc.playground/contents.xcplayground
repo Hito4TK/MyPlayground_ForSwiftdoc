@@ -22,5 +22,6 @@
         <page name='MVVMSample'/>
         <page name='Test'/>
         <page name='Work'/>
+        <page name='Protocols'/>
     </pages>
 </playground>

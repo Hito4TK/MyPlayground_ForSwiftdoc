@@ -139,7 +139,7 @@ testScores["Bev"]?[0] += 1
 testScores["Brian"]?[0] = 72
 
 if let hoge = testScores["Brian"]?[0] {
-    print("success")
+    print("success\(hoge)")
 } else {
     print("failed")
 }
