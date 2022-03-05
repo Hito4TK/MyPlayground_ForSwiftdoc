@@ -23,5 +23,6 @@
         <page name='Test'/>
         <page name='Work'/>
         <page name='Protocols'/>
+        <page name='Generics'/>
     </pages>
 </playground>
