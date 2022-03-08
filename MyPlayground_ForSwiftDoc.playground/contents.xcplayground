@@ -24,5 +24,6 @@
         <page name='Work'/>
         <page name='Protocols'/>
         <page name='Generics'/>
+        <page name='Opaque Types'/>
     </pages>
 </playground>
